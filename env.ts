@@ -10,7 +10,7 @@
 | This file is read automatically by the framework during the boot lifecycle
 | and hence do not rename or move this file to a different location.
 |
-*/
+*/ 
 
 import Env from '@ioc:Adonis/Core/Env'
 
