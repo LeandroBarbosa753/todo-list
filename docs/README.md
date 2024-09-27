@@ -110,7 +110,7 @@ create database todo;
 Para sair, use:
 
 ```sql
-/q
+\q
 ```
 
 Depois, coloque as informações no arquivo `.env`.
